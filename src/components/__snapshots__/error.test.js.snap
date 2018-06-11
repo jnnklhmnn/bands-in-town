@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Error should match Snapshot 1`] = `
+<div
+  className="contentbox"
+>
+  <div>
+    <h3>
+      Something went terribly wrong, please try again.
+    </h3>
+  </div>
+</div>
+`;

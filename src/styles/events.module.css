@@ -1,0 +1,57 @@
+.contentbox {
+    margin-bottom: 20px;
+    padding-bottom: 25px;
+    background: #fff;
+    color: #444444;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
+
+.headerwrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 15px;
+    background-color: #eae2e2;
+}
+
+.image {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    background-color: #f3ebeb;
+}
+
+.name {
+    overflow: hidden;
+}
+
+.listitem {
+    padding:  10px 20px;
+    display: flex;
+    align-items: center;
+}
+
+.listitemcopy {
+    margin: 5px 0;
+}
+
+.list {
+    max-height: 500px;
+    overflow-y: scroll;   
+}
+
+.month {
+    text-transform: uppercase;
+}
+
+.month, .day {
+    display: block;
+    font-size: 20px;
+    color: #202552;
+}
+
+.left {
+    text-align: center;
+    margin-right: 10px;
+}
+

@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search should match Snapshot 1`] = `
+<div
+  className="bitcontent"
+>
+  <div
+    className="inputsection"
+  >
+    <div>
+      <form
+        onSubmit={[Function]}
+      >
+        <input
+          className="input"
+          onChange={[Function]}
+          placeholder="Search for Band Name"
+          type="text"
+          value=""
+        />
+        <button
+          className="button"
+          disabled={true}
+          type="submit"
+        >
+           Go!
+        </button>
+      </form>
+    </div>
+    <div>
+      <button
+        className="button"
+        disabled={true}
+        onClick={[Function]}
+      >
+        search last band again
+      </button>
+    </div>
+  </div>
+</div>
+`;

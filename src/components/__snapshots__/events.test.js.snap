@@ -1,0 +1,114 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Events should match Snapshot 1`] = `
+<div
+  className="contentbox"
+>
+  <div
+    className="headerwrapper"
+  >
+    <h3
+      className="name"
+    >
+      Go See 
+      foo
+       live!
+    </h3>
+    <img
+      alt="foo"
+      className="image"
+      src="http://foo.bar.de"
+    />
+  </div>
+  <ul
+    className="list"
+  >
+    <li
+      className="listitem"
+    >
+      <span
+        className="left"
+      >
+        <p
+          className="listitemcopy"
+        >
+          <span
+            className="month"
+          >
+            aug
+          </span>
+           
+          <span
+            className="day"
+          >
+             
+            04
+          </span>
+        </p>
+      </span>
+      <span
+        className="right"
+      >
+        <p
+          className="listitemcopy"
+        >
+          The Theater at MGM National Harbor
+        </p>
+        <p
+          className="listitemcopy"
+        >
+          National Harbor
+        </p>
+        <p
+          className="listitemcopy"
+        >
+          United States
+        </p>
+      </span>
+    </li>
+    <li
+      className="listitem"
+    >
+      <span
+        className="left"
+      >
+        <p
+          className="listitemcopy"
+        >
+          <span
+            className="month"
+          >
+            aug
+          </span>
+           
+          <span
+            className="day"
+          >
+             
+            05
+          </span>
+        </p>
+      </span>
+      <span
+        className="right"
+      >
+        <p
+          className="listitemcopy"
+        >
+          The Theater at MGM National Harbor
+        </p>
+        <p
+          className="listitemcopy"
+        >
+          National Harbor
+        </p>
+        <p
+          className="listitemcopy"
+        >
+          United States
+        </p>
+      </span>
+    </li>
+  </ul>
+</div>
+`;

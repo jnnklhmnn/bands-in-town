@@ -1,0 +1,65 @@
+.contentbox {
+    text-align: center;
+    margin-bottom: 20px;
+    padding-left: 40px;
+    padding-top: 40px;
+    padding-right: 40px;
+    padding-bottom: 40px;
+    background: #fff;
+    color: #444444;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.contentboxwrapper {
+    max-width: 320px;
+    display: block;
+    margin: 0 auto;
+}
+
+.name {
+    font-size: 20px;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+}
+
+.wrapper {
+    margin-top: 20px;
+}
+
+@media only screen and (min-width: 400px) {
+    .image {
+        width: 300px;
+    }
+}
+
+.imagewrapper {
+    height: 200px;
+    width: 200px;
+    margin-bottom: 30px;
+    background-color: #f3ebeb;
+    display: inline-block;
+}
+
+@media only screen and (min-width: 400px) {
+    .imagewrapper {
+        height: 300px;
+        width: 300px;
+    }
+}
+
+.facebookicon {
+    height: 25px;
+    width: 25px;
+    color: #365899;
+    position: relative;
+    top: 6px;
+    margin-left: 5px;
+}
+
+.facebooklink {
+    color: #000000;
+    text-decoration: none;   
+}

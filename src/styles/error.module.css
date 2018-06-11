@@ -1,0 +1,8 @@
+.contentbox {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding: 25px;
+    background: #fff;
+    color: #444444;
+    box-shadow: 0 1px 4px rgba(0, 0, 0, 0.3), 0 0 40px rgba(0, 0, 0, 0.1) inset;
+}
